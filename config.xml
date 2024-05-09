@@ -13,4 +13,7 @@
 <discord>https://discord.gg/invite/</discord>
 <!-- WEBSITE LINK -->
 <website>http://new.nostalg-play.eu/</website>
+<!-- ASSETS -->
+ <logo>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/logo.png</logo>
+ <background>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/background.jpg</background>
 </config>
