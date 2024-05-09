@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<!-- NOM AFFICHER SUR LE LAUNCHER -->
+ <name>Spirit</name>
+<!-- NOM DU FICHIER MAJ LAUNCHER -->
+ <updatermaj>LauncherUpdate.exe</updatermaj>
+<!--  EXECUTABLE DU JEU -->
+<executable>Dofus.exe</executable>
+<!-- UPDATE LINK -->
+<download>http://185.224.134.86/update/app</download>
+<!-- ATTENTION A NE PAS METTRE DE "/"  à la fin sur NEWS et LAUNCHER -->
+<!-- NEWS LINK -->
+<news>http://new.nostalg-play.eu/rss</news>
+<!-- LAUNCHER LINK -->
+<launcher>http://new.nostalg-play.eu/rss/launcher</launcher>
+<!-- LAUNCHER UPDATE LINK -->
+<launcherdownload>http://new.nostalg-play.eu/rss/launcher/updatelauncher</launcherdownload>
+<!-- DISCORD LINK -->
+<discord>https://discord.gg/invite/</discord>
+<!-- WEBSITE LINK -->
+<website>http://new.nostalg-play.eu/</website>
+<!-- DOWNLOAD LAUNCHER LINK -->
+<download>http://new.nostalg-play.eu/rss/launcher/download</download>
+</config>
