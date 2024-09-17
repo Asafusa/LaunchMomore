@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 <!-- NOM AFFICHER SUR LE LAUNCHER -->
- <name>Name</name>
+ <name>Zprad</name>
 <!--  EXECUTABLE DU JEU -->
 <executable>Dofus.exe</executable>
 <!-- UPDATE LINK -->
-<download>http://185.224.134.86/update/app</download>
+<download>http://ton site/update/app</download>
 <!-- ATTENTION A NE PAS METTRE DE "/"  à la fin sur NEWS et LAUNCHER -->
 <!-- NEWS LINK -->
-<news>http://new.nostalg-play.eu/rss</news>
+<news>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/xml</news>
 <!-- DISCORD LINK -->
 <discord>https://discord.gg/invite/</discord>
 <!-- WEBSITE LINK -->
-<website>http://new.nostalg-play.eu/</website>
+<website>http://Ton-Site/</website>
 <!-- ASSETS -->
- <logo>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/logo.png</logo>
- <background>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/background.jpg</background>
+ <logo>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/assets/logo.png</logo>
+ <background>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/assets/background.jpg</background>
 </config>

@@ -4,25 +4,25 @@
   <!-- ID DE LA NEWS (1,2,3,4 etc...) -->
   <item id="1">
     <!-- TITRE EN GROS SUR LE LAUNCHER -->
-    <title>Spirit Le Nouveau Serveur Dofus Vous Attend !</title>
+    <title>Le Nouveau Serveur Dofus Vous Attend !</title>
     <!-- LIEN D'UNE IMAGE QUI SERA AFFICHÉE SUR LE LAUNCHER -->
-    <image>http://23.247.50.57/launcher/assets/news1.png</image>
+    <image>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/assets/news/1539486.png</image>
     <!-- LIEN DE REDIRECTION LORSQU'ON CLIQUE SUR L'IMAGE DU LAUNCHER -->
-    <pub>https://play-spirit.com/</pub>
+    <pub>https://Ton-Site/</pub>
   </item>
   <item id="2">
-    <title>Spirit en constant développement !</title>
-    <image>http://23.247.50.57/launcher/assets/news2.png</image>
-    <pub>https://play-spirit.com/</pub>
+    <title>un Serveur en constant développement !</title>
+    <image>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/assets/news/1896131.png</image>
+    <pub>https://Ton-Site/</pub>
   </item>
   <item id="3">
-    <title>Spirit est réellement avec vous !</title>
-    <image>http://23.247.50.57/launcher/assets/news3.png</image>
-    <pub>https://play-spirit.com/</pub>
+    <title>On est réellement avec vous !</title>
+    <image>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/assets/news/1896189.png</image>
+    <pub>https://Ton-Site/</pub>
   </item>
   <item id="4">
-    <title>Spirit vous acceuil à bras ouvert !</title>
-    <image>http://23.247.50.57/launcher/assets/news4.png</image>
-    <pub>https://play-spirit.com/</pub>
+    <title>On vous acceuil à bras ouvert !</title>
+    <image>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/assets/news/1896274.png</image>
+    <pub>https://Ton-Site/</pub>
   </item>
 </news>
