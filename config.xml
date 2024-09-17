@@ -5,7 +5,7 @@
 <!--  EXECUTABLE DU JEU -->
 <executable>Dofus.exe</executable>
 <!-- UPDATE LINK -->
-<download>http://ton site/update/app</download>
+<download>http://ton-site/update/app</download>
 <!-- ATTENTION A NE PAS METTRE DE "/"  à la fin sur NEWS et LAUNCHER -->
 <!-- NEWS LINK -->
 <news>https://raw.githubusercontent.com/Asafusa/LaunchMomore/main/xml</news>
